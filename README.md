@@ -1,6 +1,3 @@
-[main dd854f7] try
- 5 files changed, 183 insertions(+), 1 deletion(-)
- create mode 100644 .README.md.swp
- create mode 100644 main.c
- create mode 100644 main.h
- create mode 100644 man
+[main b9b749d] man 3 printf
+ 2 files changed, 93 insertions(+), 3 deletions(-)
+ create mode 100644 man_3_printf
